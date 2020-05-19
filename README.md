@@ -29,3 +29,9 @@ V0.1
 
     structure update of the project, components etc.
  
+------------
+
+V0.11
+
+    adding form and inputbox
+ 
