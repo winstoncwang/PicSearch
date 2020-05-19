@@ -3,7 +3,11 @@ import ReactDOM from 'react-dom';
 import SearchBar from './SearchBar';
 
 const App = () => {
-	return <SearchBar />;
+	return (
+		<div className="ui container" style={{ marginTop: 10 }}>
+			<SearchBar />
+		</div>
+	);
 };
 
 export default App;
