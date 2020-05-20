@@ -35,3 +35,9 @@ V0.11
 
     adding form and inputbox
  
+------------
+
+V0.12
+
+    add eventlistener for search input & indepth knowledge of this
+ 
