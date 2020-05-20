@@ -82,3 +82,9 @@ V0.21
 
     adding image card component for each image
  
+------------
+
+V0.22
+
+    calculate the span parameter and add it to the inline style, using ref property to access DOM using Reactjs
+ 
