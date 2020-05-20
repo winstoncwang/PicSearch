@@ -76,3 +76,9 @@ V0.2
 
     adding imagelist.css
  
+------------
+
+V0.21
+
+    adding image card component for each image
+ 
