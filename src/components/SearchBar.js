@@ -13,7 +13,11 @@ class SearchBar extends React.Component {
 	render () {
 		return (
 			<div className="ui segment">
-				<form className="ui large form" onSubmit={this.onFormSubmit}>
+				<form
+					className="ui large form"
+					onSubmit={this.onFormSubmit}
+					guesswhatiam="im the props"
+				>
 					<div className="field">
 						<label>Search your pictures here:</label>
 						<div className="ui action input">
@@ -26,7 +30,9 @@ class SearchBar extends React.Component {
 								value={this.state.term}
 								placeholder="Enter your search term"
 							/>
-							<button className="ui button">Search</button>
+							<button className="ui button" type="submit">
+								Search
+							</button>
 						</div>
 					</div>
 				</form>
