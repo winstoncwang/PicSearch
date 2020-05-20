@@ -88,3 +88,9 @@ V0.22
 
     calculate the span parameter and add it to the inline style, using ref property to access DOM using Reactjs
  
+------------
+
+V2 Build
+
+    final build
+ 
