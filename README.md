@@ -47,3 +47,9 @@ V0.13
 
     app component extracted, pass value from child to parent using CB and implement axios
  
+------------
+
+V0.14
+
+    axios get method with the right header and authorization
+ 
