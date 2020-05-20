@@ -1,7 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af34a91c4d95cc44f4d9c5de1e1e0f83",
+    "revision": "718e1d0b94c0a1178fc17a8ba0da2937",
     "url": "/PicSearch/index.html"
+  },
+  {
+    "revision": "89c0f04a6ea8bf3121be",
+    "url": "/PicSearch/static/css/main.7774a6ce.chunk.css"
   },
   {
     "revision": "d7e834660989be88fc14",
@@ -12,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PicSearch/static/js/2.f4bb7e63.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1ddf7c765bee688c1b32",
-    "url": "/PicSearch/static/js/main.46b6621f.chunk.js"
+    "revision": "89c0f04a6ea8bf3121be",
+    "url": "/PicSearch/static/js/main.26e3b5ee.chunk.js"
   },
   {
     "revision": "0c713ca29f47d5f64544",
