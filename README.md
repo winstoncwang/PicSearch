@@ -41,3 +41,9 @@ V0.12
 
     add eventlistener for search input & indepth knowledge of this
  
+------------
+
+V0.13
+
+    app component extracted, pass value from child to parent using CB and implement axios
+ 
