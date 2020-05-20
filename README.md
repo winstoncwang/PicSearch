@@ -70,3 +70,9 @@ Version 1 build
 
     version 1 build
  
+------------
+
+V0.2
+
+    adding imagelist.css
+ 
